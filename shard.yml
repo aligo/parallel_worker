@@ -1,0 +1,13 @@
+name: parallel_worker
+version: 0.0.1
+
+authors:
+  - aligo Kang <aligo_x@163.com>
+
+crystal: 0.27.2
+
+license: MIT
+
+dependencies:
+  msgpack:
+    github: crystal-community/msgpack-crystal
